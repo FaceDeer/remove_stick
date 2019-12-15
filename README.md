@@ -1,2 +1,3 @@
-# remove_stick
- A stick that removes anything it hits, intended for admin use
+This Minetest mod adds a single tool, a stick that removes anything it hits. No crafting recipe is included as this is inteneded for admin use, to clean up nodes or entities that aren't removable by other means. The "remove_stick" priviledge is required to use it.
+
+It was originally part of the [admin_tools mod](https://forum.minetest.net/viewtopic.php?id=1144) created by randomproof and licensed under the WTFPL in 2012. It has been extracted from that mod and relicensed here to MIT by FaceDeer in 2019.
